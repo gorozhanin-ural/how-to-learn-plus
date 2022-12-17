@@ -1,0 +1,14 @@
+.link {
+    text-decoration: none;
+    color: #2f80ed;
+}
+
+.link:hover {
+    transition-property: opacity;
+    transition-duration: .2s;
+    opacity: .5;
+  }
+
+  .link::after{
+    content: '->';
+  }
