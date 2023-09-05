@@ -9,4 +9,4 @@
 * БЭМ
 
 -----
-[Demo] (https://how-to-learn-plus.nothingisreal.ru/)
+[Demo](https://how-to-learn-plus.nothingisreal.ru/)
